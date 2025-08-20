@@ -1,8 +1,187 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Apostasy Wiki
+description: Apostasy Wiki
 theme: just-the-docs
+#remote_theme: just-the-docs\just-the-docs
+color_scheme: wakingdreams-dark
+#logo: ""
+#favicon_ico: ""
 
-url: https://just-the-docs.github.io
+back_to_top: true
+back_to_top_text: "Back to top"
+
+url: https://apostasy.github.io/
+
+# Pages in following directories will be excluded from the Export
+exclude:
+  - wip/
+
+search:
+  heading_level: 4
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: true
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2025 Waking Dreams."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "News":
+    - "https://www.patreon.com/aljoxo"
+  "Download":
+    - "https://www.nexusmods.com/skyrimspecialedition/mods/118893"
+#  "Media":
+#    - ""  
+  "Wabbajack":
+    - "https://www.wabbajack.org"
+    
+    
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/Oghma-Infinium/apoostasy.githubio/" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+   
+callouts_level: loud
+callouts:
+  highlight:
+    title: Notice
+    color: yellow
+  important:
+    title: Important
+    color: yellow
+  logfile:
+    title: Log Section
+    color: green
+  iniSetting:
+    title: INI Setting
+    color: green
+  alternative:
+    title: Alternative
+    color: green
+  console:
+    title: Console Commands
+    color: green    
+  hint:
+    title: Hint
+    color: green  
+  note:
+    title: Note
+    color: yellow
+  warning:
+    title: Warning
+    color: red
+  NoTitleYellow:
+    color: yellow
+  NoTitleGreen:
+    color: green
+    
+# Define Jekyll collections
+collections:
+  # Define a collection named "Items", its documents reside in the "_Items" directory
+  01Help:
+    permalink: "/:collection/:path/"
+    output: true
+  01Support:
+    permalink: "/:collection/:path/"
+    output: true
+  01HowDoI:
+    permalink: "/:collection/:path/"
+    output: true
+  02ModlistBasics:
+    permalink: "/:collection/:path/"
+    output: true
+  02RecommendedReading:
+    permalink: "/:collection/:path/"
+    output: true
+  02World:
+    permalink: "/:collection/:path/"
+    output: true
+  03Gameplay:
+    permalink: "/:collection/:path/"
+    output: true
+  04Mechanics:
+    permalink: "/:collection/:path/"
+    output: true
+  05Builds:
+    permalink: "/:collection/:path/"
+    output: true
+  06ModlistVersions:
+    permalink: "/:collection/:path/"
+    output: true
+  07OtherResources:
+    permalink: "/:collection/:path/"
+    output: true
+
+
+just_the_docs:
+  collections:
+    01Help:
+      name: Help & Support
+      nav_fold: false   
+    01Support:
+      name: Support Pages
+      nav_hasparent: true
+    01HowDoI:
+      name: How Do I?
+      nav_hasparent: true
+    02ModlistBasics:
+      name: Apostasy Basics
+      nav_fold: false
+    02RecommendedReading:
+      name: Recommended Reading
+      nav_hasparent: true
+    02World:
+      name: Apostasy's World
+      nav_hasparent: true
+    03Gameplay:
+      name: Gameplay Analysis
+      nav_fold: true
+    04Mechanics:
+      name: Mechanics & Deep Dives
+      nav_fold: true
+    05Builds:
+      name: Builds and Guides
+      nav_fold: true
+    06ModlistVersions:
+      name: Load Order & Changelogs
+      nav_fold: true
+    07OtherResources:
+      name: Other Resources
+      nav_fold: true
+
+
+nav_external_links:
+  - title: UESP Interactive Skyrim Map
+    url: https://srmap.uesp.net/
+    hide_icon: false # set to true to hide the external link icon - defaults to false   
+  - title: UESP Interactive Solstheim Map
+    url: https://dbmap.uesp.net/
+    hide_icon: false # set to true to hide the external link icon - defaults to false   
+  - title: UESP Skill Book locations
+    url: https://en.uesp.net/wiki/Skyrim:Skill_Books
+    hide_icon: false # set to true to hide the external link icon - defaults to false  
+  - title: UESP Wiki 
+    url: https://en.uesp.net/wiki/Main_Page
+    hide_icon: false # set to true to hide the external link icon - defaults to false      
+  
+    
+    
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+# ga_tracking: # ?
+# ga_tracking_anonymize_ip: nil  # Use GDPR compliant Google Analytics settings (true/nil by default)
