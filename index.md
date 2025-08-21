@@ -30,7 +30,7 @@ Placeholder Text
 ### When starting a New Character
 
 {: .warning } 
-> If you have played a character already and then exit to the main menu, do _not_ attempt to start a new character in the same session. Instead, quit entirely out of Skyrim and restart it from there. If you do not do so, the game will not operate properly and you will get errors such as 'please restart the economy' or 'Honed Metal has crashed.'
+> If you have played a character already and then exit to the main menu, do _not_ attempt to start a new character in the same session. Instead, quit entirely out of Skyrim and restart it from there. If you do not do so, the game will not operate properly and you will get errors such as 'Failed to start Dialogue Quest'.
 >
 > This *isn't* a bug with the modlist. Skyrim does not handle you playing one character, returning to the menu, and then starting a second. This is because Skyrim doesn't unload all of the previous games scripts and can cause severe issues with your new play-through (hotkeys not working, broken economy, merchants with no gold, or your character leveling up when they shouldn't be).
 >

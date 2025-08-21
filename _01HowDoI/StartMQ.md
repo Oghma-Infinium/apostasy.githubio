@@ -14,4 +14,4 @@ In order to start the main quest line follow the instructions below:
  3. Go into the room on your right (if facing the bar) and go to sleep. This will kick off the Alternate Vanilla Start.
 
 {: .warning}
-If you encountered the **"Failed to start Dialogue Quest"** error in the start room, you will be unable to start the Main Quest due to the scripts governing the Alternate Start breaking. You can read more about this issue here. 
+If you encountered the **"Failed to start Dialogue Quest"** error in the start room, you will be unable to start the Main Quest due to the scripts governing the Alternate Start breaking. You can read more about this issue [here](https://apostasy.com/#when-starting-a-new-character). 
