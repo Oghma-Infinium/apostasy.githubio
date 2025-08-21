@@ -5,8 +5,6 @@ nav_order: 6
 description: Common Installation Issues
 ---
 
-# Common Installation Issues
-
 ## Table of contents
 {: .no_toc }
 <details markdown="block">

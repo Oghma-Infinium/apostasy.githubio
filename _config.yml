@@ -130,37 +130,37 @@ collections:
 
 just_the_docs:
   collections:
-    01Help:
+    01Help: # Section 1
       name: Help & Support
       nav_fold: false   
-    01Support:
+    01Support: # Section 1.A
       name: Support Pages
       nav_hasparent: true
-    01HowDoI:
+    01HowDoI: # Section 1.B
       name: How Do I?
       nav_hasparent: true
-    02ModlistBasics:
+    02ModlistBasics: # Section 2
       name: Apostasy Basics
       nav_fold: false
-    02RecommendedReading:
+    02RecommendedReading: # Section 2.A
       name: Recommended Reading
       nav_hasparent: true
-    02World:
+    02World: # Section 2.B
       name: Apostasy's World
       nav_hasparent: true
-    03Gameplay:
+    03Gameplay: # Section 3
       name: Gameplay Analysis
       nav_fold: true
-    04Mechanics:
+    04Mechanics: # Section 4
       name: Mechanics & Deep Dives
       nav_fold: true
-    05Builds:
+    05Builds: # Section 5
       name: Builds and Guides
       nav_fold: true
-    06ModlistVersions:
+    06ModlistVersions: # Section 6
       name: Load Order & Changelogs
       nav_fold: true
-    07OtherResources:
+    07OtherResources: # Section
       name: Other Resources
       nav_fold: true
 
@@ -168,16 +168,16 @@ just_the_docs:
 nav_external_links:
   - title: UESP Interactive Skyrim Map
     url: https://srmap.uesp.net/
-    hide_icon: false # set to true to hide the external link icon - defaults to false   
+    hide_icon: false  
+    opens_in_new_tab: false  
   - title: UESP Interactive Solstheim Map
     url: https://dbmap.uesp.net/
-    hide_icon: false # set to true to hide the external link icon - defaults to false   
-  - title: UESP Skill Book locations
-    url: https://en.uesp.net/wiki/Skyrim:Skill_Books
-    hide_icon: false # set to true to hide the external link icon - defaults to false  
+    hide_icon: false    
+    opens_in_new_tab: false  
   - title: UESP Wiki 
     url: https://en.uesp.net/wiki/Main_Page
-    hide_icon: false # set to true to hide the external link icon - defaults to false      
+    hide_icon: false  
+    opens_in_new_tab: false     
   
     
     

@@ -5,8 +5,6 @@ nav_order: 4
 description: Known Issues & Workarounds
 ---
 
-# Known Issues & Workarounds
-
 ## Table of contents
 {: .no_toc }
 <details markdown="block">
