@@ -2,29 +2,24 @@
 // CSS Style Sheet base taken from Lizzy's Wildlander Wiki
 // https://github.com/Wildlander-mod/wildlander-mod.github.io/
 
-$blue-050: #eff6ff;
 $blue-100: #dbeafe;
-$blue-200: #bedbff;
-$blue-300: #8ec5ff;
-$blue-400: #51a2ff;
-$blue-500: #2b7fff;
-$blue-600: #155dfc;
-$blue-700: #1447e6;
-$blue-800: #193cb8;
-$blue-900: #1c398e;
-$blue-950: #162456;
+$blue-200: #bfdbfe; 
+$blue-300: #93c5fd;
+$blue-400: #60a5fa; 
+$blue-500: #3b82f6;
 
-$indigo-050: #f0f9ff;
-$indigo-100: #eef2ff;
-$indigo-200: #e0e7ff;
-$indigo-300: #c6d2ff;
-$indigo-400: #a3b3ff;
-$indigo-500: #7c86ff;
-$indigo-600: #615fff;
-$indigo-700: #4f39f6;
-$indigo-800: #432dd7;
-$indigo-900: #372aac;
-$indigo-950: #1e1a4d;
+$slate-600: #475569;
+$slate-700: #334155;
+$slate-800: #1e293b;
+
+$indigo-400: #818cf8;
+$indigo-600: #4f46e5;
+$indigo-700: #4338ca;
+$indigo-800: #3730a3;
+
+$violet-500: #8b5cf6;
+$violet-600: #7c3aed;
+$violet-700: #6d28d9;
 
 $font-size-1: 9px !default;
 $font-size-1-sm: 10px !default;
@@ -93,11 +88,11 @@ iframe {
 }
 
 .btn-indigo {
-  @include btn-color(#ffffff, #615fff); 
+  @include btn-color(#ffffff, #4f46e5); 
 }
 
 .search-input {
-	color: #51A2FF;
+	color: #60a5fa;
     font-weight: bold;
     font-size: 16px;
 }
@@ -107,12 +102,12 @@ table {
   display: table;
   min-width: 25%;
   border-collapse: separate;
-  border: 2px #615fff solid;
+  border: 2px #4f46e5 solid;
 }
 
 th {
    min-width: 50px;
-   background-color:#615fff;
+   background-color:#4f46e5;
    color: #ffffff;
    font-weight: bold;
    text-align:center;
@@ -131,7 +126,7 @@ td {
 code {
     white-space : pre-wrap !important;
     word-break: break-word;
-    background-color:#193cb8;
+    background-color:#334155;
     color: #ffffff;
     font-family:system-ui,-apple-system,blinkmacsystemfont,"Segoe UI",roboto,"Helvetica Neue",arial,sans-serif;
 }
@@ -140,14 +135,14 @@ code {
 pre {
     white-space : pre-wrap !important;
     word-break: break-word;
-    background-color:#193cb8;
+    background-color:#334155;
     color: #ffffff;
     font-family:system-ui,-apple-system,blinkmacsystemfont,"Segoe UI",roboto,"Helvetica Neue",arial,sans-serif;
 }
 
 .highlight,
 pre.highlight {
-    background-color: #193cb8;
+    background-color: #334155;
     white-space : pre-wrap !important;
     word-break: break-word;
     color: #ffffff;
@@ -175,7 +170,7 @@ background: transparent;
 }
 
 .site-button:hover {
-	color: #51A2FF;
+	color: #60a5fa;
 }
 
 
@@ -211,7 +206,7 @@ background: transparent;
   text-align: start;
   text-transform: uppercase;
   border-bottom: $border $border-color;
-  color: #51A2FF;
+  color: #60a5fa;
 
   @include mq(md) {
     padding-right: $gutter-spacing;
@@ -253,7 +248,7 @@ background: transparent;
 	h5,
 	h6
 	{
-	  color: #51A2FF;
+	  color: #60a5fa;
 	  font-family: Averta, sans-serif;
 	}
 	
