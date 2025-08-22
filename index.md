@@ -7,9 +7,31 @@ permalink: /
 has_toc: true
 ---
 
-Placeholder Text
+![image](/Assets/images/apostasy-header.png)
 
----
+Apostasy is a total overhaul modlist for *The Elder Scrolls V: Skyrim Special Edition* that offers a immersive, modernized Skyrim experience. Blending elements of traditional RPGs with the Action Combat elements of newer titles, Apostasy turns Skyrim into an epic experience that offers brutal, rewarding combat, build diversity, and a comprehensive experience. With a high-fidelity visual overhaul, an enhanced world to explore, new quests, and fresh gameplay, Apostasy offers the most complete modded Skyrim experience to date.  
+
+Apostasy is curated from thousands of publicily available and custom created mods made by the talented Skyrim community. Developed over the course of thousands of hours, with input from several experienced modlist creators and curators, known for lists such as [Arisen](https://github.com/aljoxo/Arisen), [Ascensio](https://github.com/Oghma-Infinium/Ascensio), [Fahluaan](https://github.com/Oghma-Infinium/Fahluaan), and [Vagabond](https://github.com/Oghma-Infinium/Vagabond), Apostasy brings a refined and consistent Skyrim experience that exists nowhere else.  
+
+Apostasy may be overwhelming at first, so I highly recommend skimming through this wiki. Start with the [Recommended Reading](/02RecommendedReading/Introduction) section and work your way down.
+
+## Modlist Assistance & Support
+
+ 1. Make sure to read over the [installation guide](/01Help/Install).
+ 2. Search the [FAQs](/01Support/FAQs) in case your question has been previously asked.
+ 3. Check the [Known Issues](/01Support/Known%20Issues) page.
+ 4. First-line Support is available primarily in the [Waking Dreams Discord Server](https://discord.gg/4WwqfK5yHg). 
+
+**Support Guidelines**
+
+ 1. Read and Follow the Discord rules.
+ 2. Do **NOT** private message or @ staff.
+ 3. Support can only be provided for up-to-date, unmodified versions of the list.
+ 4. Staff reserve the right to decline to help people with issues on modified installs.
+ 5. Before reporting a bug, first search the **#apostasy-support** channel on the [discord](https://discord.gg/4WwqfK5yHg) (or use the search bar on the wiki) as it may have already been reported and may have an available solution.
+    1. If the issue has been reported and closed, then please do not open a duplicate issue.
+    2. If the issue has been reported and remains open, then use the existing thread to further discuss the issue.
+    3. If the issue has **not** been reported, then make a new support post. Be sure to provide all requested information as outlined in the pinned post of the **#apostasy-support** channel on the [discord](https://discord.gg/4WwqfK5yHg).
 
 ### Save Advice
 
@@ -40,41 +62,47 @@ Placeholder Text
 
 ---
 
-## Thanks Credits
+## Credits & Thank yous
 
 ### Contributors & Collaborators
 
-I would like to thank [Bingus](https://next.nexusmods.com/profile/bingusthecatto/about-me), Curly, [iAmMe27](https://ko-fi.com/iamme27), [Ylikollikas](https://next.nexusmods.com/profile/Ylikollikas), [Styyx](https://github.com/Styyx1), and the [Waking Dreams](https://discord.gg/4WwqfK5yHg) Helpers for their contributions to the list and supporting my growth and ideas as a modlist author.
+This endeavor would not have been possible without [Bingus](https://next.nexusmods.com/profile/bingusthecatto/about-me), [iAmMe27](https://ko-fi.com/iamme27), [Ylikollikas](https://next.nexusmods.com/profile/Ylikollikas), [Styyx](https://github.com/Styyx1), and the [Waking Dreams](https://discord.gg/4WwqfK5yHg) Helpers for their contributions to the list and supporting my growth and ideas as a modlist author.
 
 ### Guidance and Early Support
 
-I would like to thank [JustThatKing](https://next.nexusmods.com/profile/JustThatKing/about-me), [jdsmith2816](https://next.nexusmods.com/profile/jdsmith2816/about-me), and [Total](https://github.com/NotTotal) for their feedback and assistance over the years and their assistance with navigating the Wabbajack platform.
+I would like to thank [JustThatKing](https://next.nexusmods.com/profile/JustThatKing/about-me), [jdsmith2816](https://next.nexusmods.com/profile/jdsmith2816/about-me), Curly, and [Total](https://github.com/NotTotal) for their feedback and assistance over the years and their assistance with navigating the Wabbajack platform.
 
 ### Wabbajack and Modding Tools
 
-A special thanks to [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the WJ Team for the amazing platform that is Wabbajack. This list one of this would be possible without:
+A special thanks to [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the WJ Team for the Wabbajack app and community. Additionally, this list would not be possible without:
  -  Bethesda Game Studios for Skyrim and the Creation Kit.
  - [ElminsterAU](https://www.patreon.com/ElminsterAU) the xEdit team for [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164).
  - [Noggog](https://www.nexusmods.com/skyrim/users/862590) for [Mutagen](https://github.com/Mutagen-Modding) and [Synthesis](https://github.com/Mutagen-Modding/Synthesis).
  - [Sheson](https://ko-fi.com/sheson) for [DynDOLOD](https://dyndolod.info/) and associated tools.
 
-
 ### Guides and Documentation
 
-Thanks to [LivelyDismay](https://github.com/LivelyDismay) and [The Animonculory](https://github.com/The-Animonculory) for their excellent modding guides and documentation.
+I would like to acknowledge [LivelyDismay](https://github.com/LivelyDismay) and [The Animonculory](https://github.com/The-Animonculory) for their excellent modding guides and documentation.
 
 ### Community and Permissions
+
 This project would not be possible without the greater Skyrim modding community and all mod authors whose work is included. A special thanks to [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from *The Owl Archives* discord server.
+
+Additionally, I would like to extend a special thank you towards [Lizzy](https://github.com/Mieekaserra) and [Dylan Perry](https://www.patreon.com/dylanbperry) for their extensive [Wildlander Wiki](https://github.com/Wildlander-mod/wildlander-mod.github.io/tree/main), which I have used as a reference in the creation of the Apostasy Wiki.
 
 ### Patrons and Supporters
 
-I would like to extend another special thanks to everyone who has provided me financial support via [patreon](https://www.patreon.com/aljoxo) and [Ko-fi](https://ko-fi.com/aljoxo) over the years. Below you can see the list of these individuals.
+Finally, I would like to express my deepest appreciation to everyone who has provided me monetary support via [patreon](https://www.patreon.com/aljoxo) and [Ko-fi](https://ko-fi.com/aljoxo) over the years. 
+
+I am extremely grateful to Anehum, JolyTheRancher, D1Z4STR, EnragedHamster, Danimals, Echo, icaruscien, Makk, Pacifist Fist, t, Ark, Chef Nicnaq, Alex H., Don Maker, Hencoat, and Mgde12.  
+
+The drop downs below contain the full list of supporters.
 
 <details markdown="block">
   <summary>
      Patrons
   </summary>
-  In order of date joined:
+  **In order of date joined:**
    - Mgde12  
    - D1Z4STR   
    - 半蔵 内倉   
@@ -148,7 +176,7 @@ I would like to extend another special thanks to everyone who has provided me fi
   <summary>
      Ko-Fi Supporters
   </summary>
-  In alphabetical order: 
+  **In alphabetical order:** 
    - adorion1981   
    - aexilkv   
    - Alex H.   

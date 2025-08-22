@@ -25,7 +25,7 @@ This section includes issues which cannot presently be resolved due to the issue
 
 This issue is caused by the Alternate Start scripts breaking during the character creation process. This issue only seems to occur if you:
 
- A. Start a New Game by backing out of an existing save into main menu without restarting the game entirely. You can read more on why this is an issue [here](https://apostasy.com/#when-starting-a-new-character).  
+ A. Start a New Game by backing out of an existing save into main menu without restarting the game entirely. You can read more on why this is an issue [here](/#when-starting-a-new-character).  
  B. Modified the list and have conflicts with the scripts that [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307) edits.  
 
 There is nothing we can do to correct this and any New Game created that receives this issue will be corrupted, **bug reports on this topic will be deleted.**

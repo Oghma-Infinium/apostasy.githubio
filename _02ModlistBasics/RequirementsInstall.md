@@ -7,40 +7,38 @@ has_toc: true
 description: System Requirements & Installation
 ---
 
-(Placeholder, images need updating to proper color scheme)
-
 <div class="minimum-specs">
 	<div class="specs">
 		<p class="section"><strong>Recommended Specs:</strong></p>
 		<div class="component">
-			<img src="https://uploads-ssl.webflow.com/619450a087513368f47876f8/61c014948752dd058f207c8a_gpu_purple.svg" loading="lazy" alt="Purple GPU icon" width="60" style="filter: contrast(45%) brightness(200%);"> <span> GeForce GTX 4070 or better</span>
+			<img src="/Assets/svgs/GPU - Recommended.svg" loading="lazy" alt="Blue GPU icon" width="60" style="filter: contrast(45%) brightness(125%);"> <span> GeForce GTX 4070 or better</span>
 		</div>
 		<div class="component">
-			<img src="https://uploads-ssl.webflow.com/619450a087513368f47876f8/61c01494b4e7123538f73c9e_cpu_purple.svg" loading="lazy" alt="Purple CPU icon" width="60" style="filter: contrast(45%) brightness(200%);"> <span> AMD Ryzen 7 7800X3D or better</span>
+			<img src="/Assets/svgs/CPU - Recommended.svg" loading="lazy" alt="Blue CPU icon" width="60" style="filter: contrast(45%) brightness(125%);"> <span> AMD Ryzen 7 7800X3D or better</span>
 		</div>
 		<div class="component">
-			<img src="https://uploads-ssl.webflow.com/619450a087513368f47876f8/61c014940248ef28abf69c8f_ram_purple.svg" loading="lazy" alt="Purple RAM icon" width="60" style="filter: contrast(45%) brightness(200%);"> <span> 32GB or more RAM</span>
+			<img src="/Assets/svgs/RAM - Recommended.svg" loading="lazy" alt="Blue RAM icon" width="60" style="filter: contrast(45%) brightness(125%);"> <span> 32GB or more RAM</span>
 		</div>
 	</div>
 	<div class="specs">
 		<p class="section"><strong>Minimum Specs:</strong></p>
 		<div class="component">
-			<img src="https://uploads-ssl.webflow.com/619450a087513368f47876f8/61c0170758ac7f75119b40ca_gpu_gray.svg" loading="lazy" alt="Grey GPU icon" width="60">
+			<img src="/Assets/svgs/GPU - Minimum.svg" loading="lazy" alt="Grey GPU icon" width="60" style="filter: contrast(45%) brightness(200%);">
 			<span> GeForce GTX 3060 Ti or equivalent</span>
 		</div>
 		<div class="component">
-			<img src="https://uploads-ssl.webflow.com/619450a087513368f47876f8/61c01707ce98a3d2c755499f_cpu_gray.svg" loading="lazy" alt="Grey CPU icon" width="60">
+			<img src="/Assets/svgs/CPU - Minimum.svg" loading="lazy" alt="Grey CPU icon" width="60" style="filter: contrast(45%) brightness(200%);">
 			<span> AMD Ryzen 7 5800X or equivalent</span>
 		</div>
 		<div class="component">
-			<img src="https://uploads-ssl.webflow.com/619450a087513368f47876f8/61c0170758ac7ffc499b40cb_ram_gray.svg" loading="lazy" alt="Grey RAM icon" width="60">
+			<img src="/Assets/svgs/RAM - Minimum.svg" loading="lazy" alt="Grey RAM icon" width="60" style="filter: contrast(45%) brightness(200%);">
 			<span> 16GB or more RAM</span>
 		</div>
 	</div>
 </div>
 
 {: .important}
->If you don't have a lot of RAM, you may want to [increase your pagefile size.](LINK) **NEEDS LINK**
+>If you don't have a lot of RAM, you may want to [increase your pagefile size.](/01Help/Pagefile) **NEEDS LINK**
 > This allocates more memory to the modpack, to prevent memory-related crashes.
 
 ## In addition you will need 
