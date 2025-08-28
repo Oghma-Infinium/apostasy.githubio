@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How Do I Customize the Modlist?
-nav_order: 14
+nav_order: 16
 has_children: false
 description: How Do I Customize the Modlist?
 ---

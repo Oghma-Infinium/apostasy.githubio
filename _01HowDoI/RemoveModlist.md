@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How Do I Remove the Modlist?
-nav_order: 16
+nav_order: 18
 has_children: false
 description: How Do I Remove the Modlist?
 ---
