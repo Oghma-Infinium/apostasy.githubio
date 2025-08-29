@@ -11,7 +11,7 @@ has_toc: true
 
 Apostasy is a total overhaul modlist for *The Elder Scrolls V: Skyrim Special Edition* that offers a immersive, modernized Skyrim experience. Blending elements of traditional RPGs with the Action Combat elements of newer titles, Apostasy turns Skyrim into an epic experience that offers brutal, rewarding combat, build diversity, and a comprehensive experience. With a high-fidelity visual overhaul, an enhanced world to explore, new quests, and fresh gameplay, Apostasy offers the most complete modded Skyrim experience to date.  
 
-Apostasy is curated from thousands of publicly available and custom created mods made by the talented Skyrim community. Developed over the course of thousands of hours, with input from several experienced modlist creators and curators, known for lists such as [Arisen](https://github.com/aljoxo/Arisen), [Ascensio](https://github.com/Oghma-Infinium/Ascensio), [Fahluaan](https://github.com/Oghma-Infinium/Fahluaan), and [Vagabond](https://github.com/Oghma-Infinium/Vagabond), Apostasy brings a refined and consistent Skyrim experience that exists nowhere else.  
+Apostasy is curated from thousands of publicly available and custom created mods made by the talented Skyrim community. Developed over the course of thousands of hours, with input from several experienced modlist creators and curators, known for lists such as <a href="https://github.com/aljoxo/Arisen" target="_blank" rel="noopener noreferrer">Arisen</a>, <a href="https://github.com/Oghma-Infinium/Ascensio" target="_blank" rel="noopener noreferrer">Ascensio</a>, <a href="https://github.com/Oghma-Infinium/Fahluaan" target="_blank" rel="noopener noreferrer">Fahluaan</a>, and <a href="https://github.com/Oghma-Infinium/Vagabond" target="_blank" rel="noopener noreferrer">Vagabond</a>, Apostasy brings a refined and consistent Skyrim experience that exists nowhere else.  
 
 Apostasy may be overwhelming at first, so I highly recommend skimming through this wiki. Start with the [Recommended Reading](/02RecommendedReading/Introduction) section and work your way down.
 
@@ -66,33 +66,33 @@ Apostasy may be overwhelming at first, so I highly recommend skimming through th
 
 ### Contributors & Collaborators
 
-This endeavor would not have been possible without [Bingus](https://next.nexusmods.com/profile/bingusthecatto/about-me), [iAmMe27](https://ko-fi.com/iamme27), [Ylikollikas](https://next.nexusmods.com/profile/Ylikollikas), [Styyx](https://github.com/Styyx1), and the [Waking Dreams](https://discord.gg/4WwqfK5yHg) Helpers for their contributions to the list and supporting my growth and ideas as a modlist author.
+This endeavor would not have been possible without <a href="https://next.nexusmods.com/profile/bingusthecatto/about-me" target="_blank" rel="noopener noreferrer">Bingus</a>, <a href="https://ko-fi.com/iamme27" target="_blank" rel="noopener noreferrer">iAmMe27</a>, <a href="https://next.nexusmods.com/profile/Ylikollikas" target="_blank" rel="noopener noreferrer">Ylikollikas</a>, <a href="https://github.com/Styyx1" target="_blank" rel="noopener noreferrer">Styyx</a>, and the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams</a> Helpers for their contributions to the list and supporting my growth and ideas as a modlist author.
 
 ### Guidance and Early Support
 
-I would like to thank [JustThatKing](https://next.nexusmods.com/profile/JustThatKing/about-me), [jdsmith2816](https://next.nexusmods.com/profile/jdsmith2816/about-me), Curly, and [Total](https://github.com/NotTotal) for their feedback and assistance over the years and their assistance with navigating the Wabbajack platform.
+I would like to thank <a href="https://next.nexusmods.com/profile/JustThatKing/about-me" target="_blank" rel="noopener noreferrer">JustThatKing</a>, <a href="https://next.nexusmods.com/profile/jdsmith2816/about-me" target="_blank" rel="noopener noreferrer">jdsmith2816</a>, Curly, and <a href="https://github.com/NotTotal" target="_blank" rel="noopener noreferrer">Total</a> for their feedback and assistance over the years and their assistance with navigating the Wabbajack platform.
 
 ### Wabbajack and Modding Tools
 
-A special thanks to [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the WJ Team for the Wabbajack app and community. Additionally, this list would not be possible without:
- -  Bethesda Game Studios for Skyrim and the Creation Kit.
- - [ElminsterAU](https://www.patreon.com/ElminsterAU) the xEdit team for [SSEEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164).
- - [Noggog](https://www.nexusmods.com/skyrim/users/862590) for [Mutagen](https://github.com/Mutagen-Modding) and [Synthesis](https://github.com/Mutagen-Modding/Synthesis).
- - [Sheson](https://ko-fi.com/sheson) for [DynDOLOD](https://dyndolod.info/) and associated tools.
+A special thanks to <a href="https://www.nexusmods.com/skyrimspecialedition/users/17252164" target="_blank" rel="noopener noreferrer">Halgari</a> and the WJ Team for the Wabbajack app and community. Additionally, this list would not be possible without:  
+ - Bethesda Game Studios for Skyrim and the Creation Kit.  
+ - <a href="https://www.patreon.com/ElminsterAU" target="_blank" rel="noopener noreferrer">ElminsterAU</a> the xEdit team for <a href="https://www.nexusmods.com/skyrimspecialedition/mods/164" target="_blank" rel="noopener noreferrer">SSEEdit</a>.  
+ - <a href="https://www.nexusmods.com/skyrim/users/862590" target="_blank" rel="noopener noreferrer">Noggog</a> for <a href="https://github.com/Mutagen-Modding" target="_blank" rel="noopener noreferrer">Mutagen</a> and <a href="https://github.com/Mutagen-Modding/Synthesis" target="_blank" rel="noopener noreferrer">Synthesis</a>.  
+ - <a href="https://ko-fi.com/sheson" target="_blank" rel="noopener noreferrer">Sheson</a> for <a href="https://dyndolod.info/" target="_blank" rel="noopener noreferrer">DynDOLOD</a> and associated tools.  
 
 ### Guides and Documentation
 
-I would like to acknowledge [LivelyDismay](https://github.com/LivelyDismay) and [The Animonculory](https://github.com/The-Animonculory) for their excellent modding guides and documentation.
+I would like to acknowledge <a href="https://github.com/LivelyDismay" target="_blank" rel="noopener noreferrer">LivelyDismay</a> and <a href="https://github.com/The-Animonculory" target="_blank" rel="noopener noreferrer">The Animonculory</a> for their excellent modding guides and documentation.
 
 ### Community and Permissions
 
-This project would not be possible without the greater Skyrim modding community and all mod authors whose work is included. A special thanks to [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from *The Owl Archives* discord server.
+This project would not be possible without the greater Skyrim modding community and all mod authors whose work is included. A special thanks to <a href="https://www.nexusmods.com/skyrim/users/6843757" target="_blank" rel="noopener noreferrer">Aelarr</a> and Anreme for permissions to use some custom mods from *The Owl Archives* discord server.
 
-Additionally, I would like to extend a special thank you towards [Lizzy](https://github.com/Mieekaserra) and [Dylan Perry](https://www.patreon.com/dylanbperry) for their extensive [Wildlander Wiki](https://github.com/Wildlander-mod/wildlander-mod.github.io/tree/main), which I have used as a reference in the creation of the Apostasy Wiki.
+Additionally, I would like to extend a special thank you towards <a href="https://github.com/Mieekaserra" target="_blank" rel="noopener noreferrer">Lizzy</a> and <a href="https://www.patreon.com/dylanbperry" target="_blank" rel="noopener noreferrer">Dylan Perry</a> for their extensive <a href="https://github.com/Wildlander-mod/wildlander-mod.github.io/tree/main" target="_blank" rel="noopener noreferrer">Wildlander Wiki</a>, which I have used as a reference in the creation of the Apostasy Wiki.
 
 ### Patrons and Supporters
 
-Finally, I would like to express my deepest appreciation to everyone who has provided me monetary support via [patreon](https://www.patreon.com/aljoxo) and [Ko-fi](https://ko-fi.com/aljoxo) over the years. 
+Finally, I would like to express my deepest appreciation to everyone who has provided me monetary support via <a href="https://ko-fi.com/aljoxo" target="_blank" rel="noopener noreferrer">Ko-fi</a> and <a href="https://www.patreon.com/aljoxo" target="_blank" rel="noopener noreferrer">Patreon</a> over the years.
 
 I am extremely grateful to Anehum, JolyTheRancher, D1Z4STR, EnragedHamster, Danimals, Echo, icaruscien, Makk, Pacifist Fist, t, Ark, Chef Nicnaq, Alex H., Don Maker, Hencoat, and Mgde12.  
 

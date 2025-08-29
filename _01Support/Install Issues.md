@@ -35,7 +35,7 @@ If Skyrim updates the modlist will also undergo forced maintenance as it will ne
 
 As long as necessary. No one can give you an ETA, maintenance will take as long as it needs to take. Please do not give our support staff a migraine asking about an update.
 
-List updates will be posted in the `#server-updates` channel of the [Waking Dreams discord](https://discord.gg/4WwqfK5yHg) server and in the `#skyrim-se` announcements channel of the [Wabbajack discord](https://discord.gg/wabbajack) server.
+List updates will be posted in the `#server-updates` channel of the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams discord</a> server and in the `#skyrim-se` announcements channel of the <a href="https://discord.gg/wabbajack" target="_blank" rel="noopener noreferrer">Wabbajack discord</a> server.
 
 ### Can I download the list while it is under maintenance?
 
@@ -93,9 +93,9 @@ Reboot your PC after making this change.
 
 ### If you have installed a custom version of windows and cannot turn on UAC (or you have and it doesnt work)
 
-Apostasy does not support custom versions of windows. The instructions below are taken from the [Wildlander Wiki](https://wiki.wildlandermod.com/01Support/Faq/#if-you-have-installed-a-custom-version-of-windows-and-cannot-turn-on-uac-or-you-have-and-it-doesnt-work), and may or may not work for you.
+Apostasy does not support custom versions of windows. The instructions below are taken from the <a href="https://wiki.wildlandermod.com/01Support/Faq/#if-you-have-installed-a-custom-version-of-windows-and-cannot-turn-on-uac-or-you-have-and-it-doesnt-work" target="_blank" rel="noopener noreferrer">Wildlander Wiki</a> and may or may not work for you.
 
-1. Create a basic user account (Accounts -> Other users then add other user, click on Users, more actions and create new user.
+1. Create a basic user account (Accounts -> Other users then add other user, click on Users, more actions and create new user).
 1. login to that account - start Skyrim to add the registry entries for that user.
 1. Log back into your primary account.
 1. Then Holding shift, right click the .exe which will give a "Run as different user" command, select your created basic user and if that user is not administrator it should work.
@@ -200,24 +200,24 @@ Wabbajack frequently has trouble downloading mods hosted on sites other than Nex
 
 ### Google Drive Files:
 
-* [High Poly Head v1.4 (SE).zip](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
-* [HDT-SMP Elite Wolf Armor Patch.rar](https://drive.google.com/file/d/1CXdZi2vOpxKde6H_5NZaJOeHmMsJIreT/)
-* [HDT-SMP Elite Wolf Armor Patch for CBBE 3BA.rar](https://drive.google.com/file/d/1Xz3EXwzvY1pmzS9RiLl21m89eaYJ00-g)
-* [HDT-SMP Elite Wolf Armor Patch for HIMBO.rar](https://drive.google.com/file/d/1qsW6gFcmZdS5yZLnS0owQQyf0b-J6thB)
-* [Olivier Kenjutsu Battleaxe and Warhammer v1.0 AMR SE.zip](https://drive.google.com/file/d/1rX4INfO3ieWp25gPh0NiLPl1ktLoegZ9)
+* <a href="https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download" target="_blank" rel="noopener noreferrer">High Poly Head v1.4 (SE).zip</a>  
+* <a href="https://drive.google.com/file/d/1CXdZi2vOpxKde6H_5NZaJOeHmMsJIreT/" target="_blank" rel="noopener noreferrer">HDT-SMP Elite Wolf Armor Patch.rar</a>  
+* <a href="https://drive.google.com/file/d/1Xz3EXwzvY1pmzS9RiLl21m89eaYJ00-g" target="_blank" rel="noopener noreferrer">HDT-SMP Elite Wolf Armor Patch for CBBE 3BA.rar</a>  
+* <a href="https://drive.google.com/file/d/1qsW6gFcmZdS5yZLnS0owQQyf0b-J6thB" target="_blank" rel="noopener noreferrer">HDT-SMP Elite Wolf Armor Patch for HIMBO.rar</a>  
+* <a href="https://drive.google.com/file/d/1rX4INfO3ieWp25gPh0NiLPl1ktLoegZ9" target="_blank" rel="noopener noreferrer">Olivier Kenjutsu Battleaxe and Warhammer v1.0 AMR SE.zip</a>  
 
 ### Patreon Files: 
 
-The following patreon mods are freely available and utilized by the modlist.
+The following patreon mods are freely available and utilized by the modlist.  
 
-* [Eskyrim MCO Installer 1.2.7z](https://www.patreon.com/file?h=68233071&i=11449877)
-* [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
-* [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
-* [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
-* [_Fuse00_ArmorSpriggan_CBBE.rar](https://www.patreon.com/file?h=115658146&m=376483627)
-* [_Fuse00_ArmorSpriggan_Vanilla Male.rar](https://www.patreon.com/file?h=115658146&m=376483634)
-* [_Fuse00_ArmorSonaCBBE_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781379)
-* [_Fuse00_ArmorSonaVanillaMale_V1.2.rar](https://www.patreon.com/file?h=68902488&i=13158956)
+* <a href="https://www.patreon.com/file?h=68233071&i=11449877" target="_blank" rel="noopener noreferrer">Eskyrim MCO Installer 1.2.7z</a>  
+* <a href="https://www.patreon.com/file?h=79874952&i=13365775" target="_blank" rel="noopener noreferrer">_Fuse00_ArmorHighlander_CBBE.rar</a>  
+* <a href="https://www.patreon.com/file?h=79874952&i=13365782" target="_blank" rel="noopener noreferrer">_Fuse00_ArmorHighlander_VanillaMale.rar</a>  
+* <a href="https://www.patreon.com/file?h=67711235&i=10980531" target="_blank" rel="noopener noreferrer">_Fuse00_ArmorMelonyCBBE.rar</a>  
+* <a href="https://www.patreon.com/file?h=115658146&m=376483627" target="_blank" rel="noopener noreferrer">_Fuse00_ArmorSpriggan_CBBE.rar</a>  
+* <a href="https://www.patreon.com/file?h=115658146&m=376483634" target="_blank" rel="noopener noreferrer">_Fuse00_ArmorSpriggan_Vanilla Male.rar</a>  
+* <a href="https://www.patreon.com/file?h=68902488&i=12781379" target="_blank" rel="noopener noreferrer">_Fuse00_ArmorSonaCBBE_V1.1.rar</a>  
+* <a href="https://www.patreon.com/file?h=68902488&i=13158956" target="_blank" rel="noopener noreferrer">_Fuse00_ArmorSonaVanillaMale_V1.2.rar</a>  
 
 ---
 ## Unable to download Skyrim_Default.ini or SkyrimPrefs.ini

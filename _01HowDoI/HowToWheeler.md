@@ -6,7 +6,7 @@ has_children: false
 description: How Do I Use the Wheel?
 ---
 
-Apostasy uses [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) as a psuedo-replacement for the vanilla favorites menu. While the original favorites menu can still be accessed with `G` by default, and is needed for Vampire and Werewolf forms, it is mostly deprecated by the addition of the quick wheel system. This page will explain how to utilize and configure Wheeler.  
+Apostasy uses <a href="https://www.nexusmods.com/skyrimspecialedition/mods/97345" target="_blank" rel="noopener noreferrer">Wheeler</a> as a psuedo-replacement for the vanilla favorites menu. While the original favorites menu can still be accessed with `G` by default, and is needed for Vampire and Werewolf forms, it is mostly deprecated by the addition of the quick wheel system. This page will explain how to utilize and configure Wheeler.  
 
 ## Table of contents
 {: .no_toc }

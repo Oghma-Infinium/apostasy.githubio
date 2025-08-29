@@ -25,14 +25,30 @@ description: Frequently Asked Questions
 ---
 ## What is Apostasy?
 
-uh it's a modlist.
+Apostasy is a total overhaul modlist for *The Elder Scrolls V: Skyrim Special Edition* that offers a immersive, modernized Skyrim experience. Blending elements of traditional RPGs with the Action Combat elements of newer titles, Apostasy turns Skyrim into an epic experience that offers brutal, rewarding combat, build diversity, and a comprehensive experience. With a high-fidelity visual overhaul, an enhanced world to explore, new quests, and fresh gameplay, Apostasy offers the most complete modded Skyrim experience to date.  
+
+Apostasy is not a successor to 
+
+### How is Apostasy different from Fahluaan or Vagabond?
+
+The table below contains some pointed comparisons for how Apostasy differs from other lists that are frequently asked about.
+
+| Category | Apostasy | Fahluaan | Vagabond |
+| -------- | -------- | -------- | -------- |
+| **Creation Club** | Four free CC | Custom Cut of AE DLC | Fishing, Saints & Seducers, & Survival Mode | 
+| **Perks** | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/120398" target="_blank" rel="noopener noreferrer">Custom made perk overhaul</a> designed around <a href="https://www.nexusmods.com/skyrimspecialedition/mods/117986" target="_blank" rel="noopener noreferrer">Stances NG</a> | Customized version of <a href="https://www.nexusmods.com/skyrimspecialedition/mods/30191" target="_blank" rel="noopener noreferrer">Adamant</a> (ver. 5.9) | Customized version of <a href="https://www.nexusmods.com/skyrimspecialedition/mods/129564" target="_blank" rel="noopener noreferrer">Vokord</a> with some custom perk trees |
+| **World & Enemies** | Mostly Deleveled (enemy level "floors" and "ceilings" for most content) | Partially Deleveled (enemy level "floors") | Mostly leveled (some deleveled enemies) | 
+| **Leveling Experience** | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/17751" target="_blank" rel="noopener noreferrer">Experience</a> + <a href="https://www.nexusmods.com/skyrimspecialedition/mods/89940?" target="_blank" rel="noopener noreferrer">Static Skill Leveling</a> | Vanilla-style Leveling | <a href="https://www.nexusmods.com/skyrimspecialedition/mods/79951" target="_blank" rel="noopener noreferrer">Insightful Leveling</a> |
+| **Builds & Balance** | Focus on supporting all playstyles | Focus on supporting all playstyles | Focus on melee and spellblade playstyles | 
+| **Combat** | MCO with Stances | Vanilla Combat | MCO with custom weapon arts | 
+| **Visuals** | Expansive visual overhaul with performance optimizations | Older visual overhaul with performance optimizations & <a href="https://www.nexusmods.com/skyrimspecialedition/mods/62861" target="_blank" rel="noopener noreferrer">Seasons of Skyrim</a> | Heavy visual overhaul with little to no performance optimizations | 
 
 ---
 ## How do I donate to the project?
 
 While donations are not expected, if you have enjoyed the list and would like to show your support, I (aljo) have both a <a href="https://ko-fi.com/aljoxo" target="_blank" rel="noopener noreferrer">Ko-fi</a> and a <a href="https://www.patreon.com/aljoxo" target="_blank" rel="noopener noreferrer">Patreon</a>.
 
-Supporting the list through either of these means will earn you a vanity role in the [Waking Dreams discord](https://discord.gg/4WwqfK5yHg) server and a place amongst the [Credits](/#patrons-and-supporters) of the list.
+Supporting the list through either of these means will earn you a vanity role in the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams discord</a> server and a place amongst the [Credits](/#patrons-and-supporters) of the list.
 
 ---
 ## What version of Skyrim Special Edition is needed?
@@ -129,7 +145,7 @@ There are no plans to make a version of Apostasy which is compatible with Skyrim
 
 While some users have reported getting their personal Apostasy installations functioning on the Steam Deck, or other comparable hand-held devices, this is not something that is officially supported by the Waking Dreams support staff.
 
-No instructions have been provided to support by any of the users who have gotten Apostasy to work on these devices. We are unable to help on this topic and any conversations about it should be handled in the **#apostasy-modified** channel of the [Waking Dreams discord](https://discord.gg/4WwqfK5yHg) server.
+No instructions have been provided to support by any of the users who have gotten Apostasy to work on these devices. We are unable to help on this topic and any conversations about it should be handled in the **#apostasy-modified** channel of the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams discord</a> server.
 
 ---
 ## Can I play Apostasy on Linux?
@@ -201,7 +217,7 @@ Who fucking knows? I certainly don't.
 
 ![](https://media.tenor.com/bo7EBHbIlCIAAAAd/vermintide-zealot.gif)
 
-<sub><sup>don't care + didn't ask + cry about it + stay mad + get real + L + mald seethe cope harder + hoes mad + basic + skill issue + ratio + you fell off + the audacity + triggered + any askers + redpilled + get a life + ok and? + cringe + touch grass + donowalled + not based + get owned liberal + stole this from Crit</sub></sup>
+<sub><sup>don't care + didn't ask + cry about it + stay mad + get real + L + mald seethe cope harder + hoes mad + basic + skill issue + ratio + you fell off + the audacity + triggered + any askers + redpilled + get a life + ok and? + cringe + touch grass + donowalled + not based + get owned liberal + stole this from Crit</sup>
 
 ---
 ## How long will it take me to do a complete playthrough of Apostasy?
@@ -215,12 +231,12 @@ A "full playthrough" of Apostasy assumes the completion of the Main Quest, a Gui
 ---
 ## Can I add [insert mod] to Apostasy?
 
-Use the **#apostasy-requests** channel on the [Waking Dreams discord](https://discord.gg/4WwqfK5yHg) server if you want to request the addition of a particular mod, otherwise use the **#apostasy-modified** channel to discuss list modifications.
+Use the **#apostasy-requests** channel on the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams discord</a> server if you want to request the addition of a particular mod, otherwise use the **#apostasy-modified** channel to discuss list modifications.
 
 ---
 ## Can I remove [insert mod] from Apostasy?
 
-Use the **#apostasy-requests** channel on the [Waking Dreams discord](https://discord.gg/4WwqfK5yHg) server if you want to request the removal of a particular mod, otherwise use the **#apostasy-modified** channel to discuss list modifications.
+Use the **#apostasy-requests** channel on the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams discord</a> server if you want to request the removal of a particular mod, otherwise use the **#apostasy-modified** channel to discuss list modifications.
 
 ---
 ## Will OStim or SexLab ever be added to Apostasy?

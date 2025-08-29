@@ -6,7 +6,7 @@ has_children: false
 description: How Do I Start the Main Quest?
 ---
 
-Apostasy utilizes [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307) for its Alternate Start which completely reworks the Vanilla intro and allows Helgen to exist as a functioning city prior to the events of the Main Quest.  
+Apostasy utilizes <a href="https://www.nexusmods.com/skyrimspecialedition/mods/50307" target="_blank" rel="noopener noreferrer">Alternate Perspective</a> for its Alternate Start which completely reworks the Vanilla intro and allows Helgen to exist as a functioning city prior to the events of the Main Quest.  
 
 In order to start the main quest line follow the instructions below:  
 
