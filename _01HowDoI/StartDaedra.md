@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How Do I Start Daedric Quests?
-nav_order: 7
+nav_order: 8
 has_children: false
 description: How Do I Start Daedric Quests?
 ---

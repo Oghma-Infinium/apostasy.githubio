@@ -23,6 +23,10 @@ Select `Set CPU Affinity` from the dropdown.
 
 That's it, it's really that simple. **Please, please, please** do this before launching the game and whenever you update the modlist.
 
+## Changing Resolution
+
+See the ["How Do I Change my Resolution?"](/01HowDoI/Resolution) page.
+
 ## Frame Generation & Upscaling
 
 Apostasy offers [ENB Frame Generation](https://www.nexusmods.com/skyrimspecialedition/mods/144507) as an optional mod, which is compatible with GPUs that support DirectX 12 and a 120hz+ monitor. 

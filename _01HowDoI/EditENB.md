@@ -33,5 +33,5 @@ In order to tweak (brighten or darken) interiors via the ENB menu, follow the st
  4. Adjust the `Gamma Interior` value for brighter or darker interiors. Lower values will brighten the interiors while higher values will darken them.
  5. Click `Save Configuration` in the top left corner of the ENB GUI to save your edits.
 
-{: .warning} 
+{: .Notice}
 Any tweaks to the ENB configuration will be reset upon any list update and you will have to repeat this process.

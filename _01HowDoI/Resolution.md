@@ -14,9 +14,14 @@ By default, Wabbajack will set the resolution in the list's `Skyrimprefs.ini` to
 To properly adjust your Resolution, please follow the steps below: 
  1. In Mod Organizer 2, open the `SSE Display Tweaks` mod under the `???` separator.
  2. Navigate to the `SSEDisplayTweaks.ini` file and open it in your preferred text editor (e.g., [Notepad++](https://notepad-plus-plus.org/)).
- 3. Under the `[Render]` header, edit the `#Resolution=1920x1080` (line ???) and change it to your desired resolution.
- 4. **(Optional)** Adjust the `#ResolutionScale=0.75` (line ???) to your desired resolution scaling.
+ 3. Under the `[Render]` header, edit the `#Resolution=1920x1080` (line 66) and change it to your desired resolution.
+
+![](/Assets/ini_SSEDisplayTweaks01.png)
+
+ 4. **(Optional)** Adjust the `#ResolutionScale=0.75` (line 67) to your desired resolution scaling.
  5. Ensure that you remove the `#` before `Resolution=` and `ResolutionScale=` to uncomment those lines so that they take effect.
 
-{: .warning} 
-Failure to follow all of the above instructions will cause your Resoution to not be changed. Also remember that these `.ini` files will be reset upon any list update and you will have to repeat this process.
+![](/Assets/ini_SSEDisplayTweaks02.png)
+
+{: .highlight}
+Remember that these `.ini` files will be reset upon any list update and you will have to repeat this process.
