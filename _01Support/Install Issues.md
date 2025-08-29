@@ -246,8 +246,8 @@ Please follow the steps below if you are failing to download the Rare Curios fil
 ![](/Assets/skyrim_curios.png)
 
 {: .warning}
-* **DO NOT** `Alt+Tab` during this process or it will fail to properly download these files.
-* **DO NOT** verify your game files after doing the steps above as it will revert the "correct" file hashes for the CC files you just downloaded.
+> * **DO NOT** `Alt+Tab` during this process or it will fail to properly download these files. 
+> * **DO NOT** verify your game files after doing the steps above as it will revert the "correct" file hashes for the CC files you just downloaded.
 
 ---
 ## Wabbajack could not find part of the path "TEMP_BSA_FILES"

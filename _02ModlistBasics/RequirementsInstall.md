@@ -38,23 +38,22 @@ description: System Requirements & Installation
 </div>
 
 {: .important}
->If you don't have a lot of RAM, you may want to [increase your pagefile size.](/01Help/Pagefile) **NEEDS LINK**
+>The listed RAM requirement are in addition to an expected increase to your windows [page file](/01Help/Pagefile).
 > This allocates more memory to the modpack, to prevent memory-related crashes.
 
 ## In addition you will need 
 
 You’ll need a few things before we begin. Please ensure that you have:
 
-* At least <strong>390GB* </strong>of free space. (*You can delete 175GB of downloads after the install, if you don't mind downloading them again for updates.)
+* At least <strong>390 GB* </strong>of free space. (*You can delete 175 GB of downloads after the install, if you don't mind downloading them again for updates.)
 * The <a href="https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/" target="_blank" rel="noopener noreferrer">latest English Steam version <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a> of <em>Skyrim Special Edition.</em>
- 
-(If you need to change your Steam language, <a href="https://imgur.com/PwCNDF5" target="_blank" rel="noopener noreferrer">click here for instructions. <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>)
 
-<strong class="bold-text">Warning:</strong> The Gamepass, GOG and Epic Games version of <em>Skyrim Special Edition </em>are not compatible!
+{: .warning}
+The Gamepass, GOG, and Epic Games version of <em>Skyrim Special Edition </em><a href="/01Support/FAQs/#why-steam-i-have-skyrim-from-another-source-and-it-wont-let-me-install" target="_blank" rel="noopener noreferrer">are not compatible</a>!
 
-*A <a href="https://users.nexusmods.com/register" target="_blank" rel="noopener noreferrer">Nexus Mods account. <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>
+* A <a href="https://users.nexusmods.com/register" target="_blank" rel="noopener noreferrer">Nexus Mods account. <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>
 
-We also **strongly** recommend a <a href="https://users.nexusmods.com/account/billing" target="_blank" rel="noopener noreferrer">Nexus Premium Membership <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>, which speeds up the install by auto-downloading mods. (Without Premium, you are looking at a twelve hour, highly manual task.)
+We also ***strongly*** recommend a <a href="https://users.nexusmods.com/account/billing" target="_blank" rel="noopener noreferrer">Nexus Premium Membership <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>, which speeds up the install by auto-downloading mods. (Without Premium, you are looking at a twelve hour, highly manual task.)
 
 <a class="btn btn-indigo" href="/01Help/Install/" target="_blank" rel="noopener noreferrer">Download and Install Instructions <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>
 
