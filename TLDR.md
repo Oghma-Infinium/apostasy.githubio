@@ -9,7 +9,7 @@ description: Apostasy Wiki TL;DR
 
 ## THERE IS NO TL;DR
 
-**Reading isn't optional!** We provide a detailed wiki which answers a lot of questions in detail. At a minimum, the [Recommended Reading](/02RecommendedReading/Introduction.md) section should be read.  
+**Reading isn't optional!** We provide a detailed wiki which answers a lot of questions in detail. At a minimum, the [Recommended Reading](/02RecommendedReading/Introduction) section should be read.  
 
 This wiki contains extensive modlist documentation relating to changes from the vanilla game, new mechanics, and various issues you may encounter during your playthrough(s).
 
@@ -19,6 +19,6 @@ Some notable shortcuts:
  - [Known Issues and Workarounds](/01Support/Known%20Issues)
  - [FAQs](/01Support/FAQs)
 
-Support asks that you search the wiki and [discord server](https://discord.gg/4WwqfK5yHg) before asking any questions.
+Support asks that you search the wiki and the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams discord</a> server before asking any questions.
 
 For web users you can search by entering your criteria into the search bar at the top of the page.

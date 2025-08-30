@@ -2,7 +2,7 @@
 layout: default
 title: Keybindings
 has_toc: true
-nav_order: 2
+nav_order: 3
 description: Keybinds
 ---
 

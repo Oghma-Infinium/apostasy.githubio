@@ -44,6 +44,8 @@ Before proceeding with the Installation Guide, please ensure that you have the f
 
 We also ***strongly*** recommend a <a href="https://users.nexusmods.com/account/billing" target="_blank" rel="noopener noreferrer">Nexus Premium Membership <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>, which speeds up the install by auto-downloading mods. (Without Premium, you are looking at a twelve hour, highly manual task.)
 
+For System Requirements and other information, please view the <a href="/02ModlistBasics/RequirementsInstall/" target="_blank" rel="noopener noreferrer">System Requirements & Installation page</a> of this wiki.
+
 If you are **updating from a previous installation**, [click here for update instructions](/01HowDoI/UpdatingModlist/).
 
 ---
@@ -136,3 +138,62 @@ Before continuing onto the rest of the installation process, *Skyrim Special Edi
 
 ---
 ## Wabbajack Installation
+
+{: .important}
+Apostasy requires Wabbajack version **4.0.0.0 or later** due to numerous fixes and changes that this version brought. Attempting to install the modlist on an older version of Wabbajack is not supported and may result in installation errors.
+
+After ensuring that you have all of the necessary dependencies and your *Skyrim Special Edition* is configured correctly, we will need to install **Wabbajack** - a modlist auto-installer that supports *Skyrim* and many other games.
+
+ 1. Go to the <a href="https://www.wabbajack.org/" target="_blank" rel="noopener noreferrer">Wabbajack website</a>.
+ 2. <strong><a href="https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe" target="_blank" rel="noopener noreferrer">Click Download</a></strong> to download the newest version of Wabbajack.
+ 3. Create a new folder on your PC outside of any Windows-managed folders, e.g.`C:\Wabbajack` or `C:\Games\Wabbajack`.
+ 4. Move the `Wabbajack.exe` you just downloaded into the folder you created in the previous step.
+ 5. Run the `Wabbajack.exe` to install Wabbajack.
+
+{: .warning}
+ > There are some restrictions on the install location of Wabbajack. You **CAN NOT** place the folder into any of the following locations:
+ > * The `Program Files` or `Program Files (x86)` folders, or their subfolders.
+ > * The `Users` folder, or any of its subfolders.
+ > * The `Steam` folder, or any of its subfolders.
+ > * The `Skyrim Special Edition` folder, or any of its subfolders.
+ > * The `Desktop` folder, or any of its subfolders.
+ > * The `Documents` folder, or any of its subfolders.
+ > * Any folder that contains <a href="https://imgur.com/oWhAxYm" target="_blank" rel="noopener noreferrer">non-English</a> characters in its filepath.
+ > * Any cloud storage folders (e.g., Dropbox, OneDrive, etc.)
+
+---
+## Installing Apostasy via Wabbajack
+
+Once the Wabbajack app is installed, you will be able to download Apostasy off of the Wabbajack Gallery. 
+
+ 1. Click on the **Browse lists** button on the left-hand side of the Wabbajack app.
+
+![](/Assets/wj_browselists.png)
+
+ 2. Type "Apostasy" into the search bar.
+ 3. Click on the image card for Apostasy.
+
+![](/Assets/wj_browselistsearch.png)
+
+ 4. Click the **Download & Install** button.
+
+![](/Assets/wj_listinstall.png)
+
+ 5. Wabbajack will then download the Apostasy wabbajack file and manifest and bring you to the installation page.
+ 6. Once on the installation page, point Wabbajack to your desired `Installation Location` (red) and `Download Location` (green).
+
+![](/Assets/wj_installpage.PNG)
+
+ 7. Click on the **Install** button located at the bottom right.
+
+<a href="https://users.nexusmods.com/account/billing" target="_blank" rel="noopener noreferrer">Nexus Premium</a> users will experience a mostly automated installation process. Non-premium users will need to manually download files as Wabbajack goes through the required files for the modlist. Downloading Apostasy will take anywhere from two to twelve plus hours based on your Premium status, ISP & internet speeds, and hardware. It is highly recommended that you go and do something else while the process is taking place, ensuring that your PC does not fall asleep during the process.
+
+---
+## Problems with the Installation
+
+If you encounter any problems during your Wabbajack installation, please read over the <a href="/01Support/Install%20Issues/" target="_blank" rel="noopener noreferrer">Common Installation Issues page</a> of this wiki. If you are unable to find the answer to your issue, then you can join the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams discord</a> server and seek support in the **#apostasy-support** channel.
+
+---
+## Successful Installation
+
+Once you have completed your installation and received the green **Wabbajack Success** message in the Wabbajack app, you should move on to the Recommended Reading section of the wiki to cover post installation process.
