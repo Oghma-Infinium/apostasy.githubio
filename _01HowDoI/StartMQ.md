@@ -15,4 +15,4 @@ In order to start the main quest line follow the instructions below:
  3. Go into the room on your right (if facing the bar) and go to sleep. This will kick off the Alternate Vanilla Start.
 
 {: .warning}
-If you encountered the **"Failed to start Dialogue Quest"** error in the start room, you will be unable to start the Main Quest due to the scripts governing the Alternate Start breaking. You can read more about this issue on the [main page](/#when-starting-a-new-character).
+If you encountered the **"Failed to start Dialogue Quest"** error in the start room, you will be unable to start the Main Quest due to the scripts governing the Alternate Start breaking. You can read more about this issue on the <a href="/01Help/Important%20Information/#save-advice" target="_blank" rel="noopener noreferrer">Important Information page</a> of this wiki.

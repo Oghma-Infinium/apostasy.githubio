@@ -20,4 +20,4 @@ When creating strong character builds, it’s important not only to look for syn
 
 While Stealth-based builds are viable and very strong in the end game, they are not recommended for beginners due to their early game struggles. Additionally, spellsword and battlemage builds may be more difficult to optimize for newer players 
 
-For some more guidance on builds and examples, you can view the Class Guides section of the Wiki.
+For some more guidance on builds and examples, you can view the **Builds & Guides section** of this wiki.

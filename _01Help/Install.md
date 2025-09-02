@@ -44,7 +44,7 @@ Before proceeding with the Installation Guide, please ensure that you have the f
 
 We also ***strongly*** recommend a <a href="https://users.nexusmods.com/account/billing" target="_blank" rel="noopener noreferrer">Nexus Premium Membership <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>, which speeds up the install by auto-downloading mods. (Without Premium, you are looking at a twelve hour, highly manual task.)
 
-For System Requirements and other information, please view the <a href="/02ModlistBasics/RequirementsInstall/" target="_blank" rel="noopener noreferrer">System Requirements & Installation page</a> of this wiki.
+For System Requirements and other information, please view the <a href="/02ModlistBasics/RequirementsInstall/" target="blank" rel="noopener noreferrer">System Requirements & Installation page</a> of this wiki.
 
 If you are **updating from a previous installation**, [click here for update instructions](/01HowDoI/UpdatingModlist/).
 
@@ -196,4 +196,4 @@ If you encounter any problems during your Wabbajack installation, please read ov
 ---
 ## Successful Installation
 
-Once you have completed your installation and received the green **Wabbajack Success** message in the Wabbajack app, you should move on to the Recommended Reading section of the wiki to cover post installation process.
+Once you have completed your installation and received the green **Wabbajack Success** message in the Wabbajack app, you should move on to the **Recommended Reading section** of this wiki to cover post installation process.

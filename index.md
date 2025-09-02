@@ -37,24 +37,26 @@ Apostasy may be overwhelming at first, so I highly recommend skimming through th
 
 {: .important}
 >
-> When you load your save file, wait at least a minute before saving again. Some scripts will break if you save too soon after loading.
+> Do not "save scum" by saving and reloading frequently.
 >
-> Avoid saving during combat or other conditions of heavy script load.
+> Avoid saving during combat, while in active dialogue, or during script heavy sequences.
 >
 > Never save more than once a minute.
 >
 > Never save within 30 seconds of entering a building / cell / dungeon.
 >
-> After waiting/sleeping, wait a minute to allow all the NPC's AI scripts to move to where they are supposed to be
+> After waiting/sleeping, wait fifteen to thirty seconds to allow all the NPC AI scripts and packages to appropriately update.
+>
+> Do not play the game at a lower framerate than 30 fps. If this is a problem for you, then consider another list.
 
 ---
 
 ### When starting a New Character
 
 {: .warning } 
-> If you have played a character already and then exit to the main menu, do _not_ attempt to start a new character in the same session. Instead, quit entirely out of Skyrim and restart it from there. If you do not do so, the game will not operate properly and you will get errors such as 'Failed to start Dialogue Quest'.
+> If you have played a character already and then exit to the main menu, do _not_ attempt to start a new character in the same session. Instead, quit entirely out of Skyrim and restart it from there. If you do not do so, the game will not operate properly and you will get errors such as <strong><a href="/01Support/Known%20Issues/#getting-failed-to-start-dialogue-quest-error-in-the-start-room" target="_blank" rel="noopener noreferrer">'Failed to start Dialogue Quest'</a></strong>.
 >
-> This *isn't* a bug with the modlist. Skyrim does not handle you playing one character, returning to the menu, and then starting a second. This is because Skyrim doesn't unload all of the previous games scripts and can cause severe issues with your new play-through (hotkeys not working, broken economy, merchants with no gold, or your character leveling up when they shouldn't be).
+> This *isn't* a bug with the modlist. Skyrim does not handle you playing one character, returning to the menu, and then starting a second. This is because Skyrim doesn't unload all of the previous games scripts and can cause severe issues with your new playthrough (hotkeys not working, broken economy, merchants with no gold, or your character leveling up when they shouldn't be).
 >
 > Every time you want to start a new character, you should be closing and reopening Skyrim in its entirety.
 >

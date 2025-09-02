@@ -95,7 +95,7 @@ If you have a Nexus Premium subscription, Apostasy will likely take anywhere fro
 ---
 ## What mods are in the modlist?
 
-The Load Order can be seen on the [Load Order page](/06ModlistVersions/LoadOrder) of the wiki.
+The Load Order can be seen on the [Load Order page](/06ModlistVersions/LoadOrder) of this wiki.
 
 ---
 ## I already have other modlists installed, Can I still play Apostasy?
