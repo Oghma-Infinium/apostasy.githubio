@@ -11,10 +11,13 @@ has_toc: true
 
 Apostasy is a total overhaul modlist for *The Elder Scrolls V: Skyrim Special Edition* that offers a immersive, modernized Skyrim experience. Blending elements of traditional RPGs with the Action Combat elements of newer titles, Apostasy turns Skyrim into an epic experience that offers brutal, rewarding combat, build diversity, and a comprehensive experience. With a high-fidelity visual overhaul, an enhanced world to explore, new quests, and fresh gameplay, Apostasy offers the most complete modded Skyrim experience to date.  
 
-Apostasy is curated from thousands of publicly available and custom created mods made by the talented Skyrim community. Developed over the course of thousands of hours, with input from several experienced modlist creators and curators, known for lists such as <a href="https://github.com/aljoxo/Arisen" target="_blank" rel="noopener noreferrer">Arisen</a>, <a href="https://github.com/Oghma-Infinium/Ascensio" target="_blank" rel="noopener noreferrer">Ascensio</a>, <a href="https://github.com/Oghma-Infinium/Fahluaan" target="_blank" rel="noopener noreferrer">Fahluaan</a>, and <a href="https://github.com/Oghma-Infinium/Vagabond" target="_blank" rel="noopener noreferrer">Vagabond</a>, Apostasy brings a refined and consistent Skyrim experience that exists nowhere else.  
+Apostasy is curated from thousands of publicly available and custom created mods made by the talented Skyrim community. Developed over the course of thousands of hours, with input from several experienced modlist creators and curators — known for lists such as <a href="https://www.nexusmods.com/skyrimspecialedition/mods/147302" target="_blank" rel="noopener noreferrer">Anvil</a>, <a href="https://github.com/aljoxo/Arisen" target="_blank" rel="noopener noreferrer">Arisen</a>, <a href="https://github.com/Oghma-Infinium/Ascensio" target="_blank" rel="noopener noreferrer">Ascensio</a>, <a href="https://github.com/Oghma-Infinium/Fahluaan" target="_blank" rel="noopener noreferrer">Fahluaan</a>, and <a href="https://github.com/Oghma-Infinium/Vagabond" target="_blank" rel="noopener noreferrer">Vagabond</a> — Apostasy brings a refined and consistent Skyrim experience that exists nowhere else.  
 
 Apostasy may be overwhelming at first, so I highly recommend skimming through this wiki. Start with the [Recommended Reading](/02RecommendedReading/Introduction) section and work your way down.
 
+<p style="text-align: center"><a class="btn btn-indigo" href="/01Help/Install/" target="blank" rel="noopener noreferrer">Installation Guide</a> <a class="btn btn-indigo" href="/02ModlistBasics/RequirementsInstall/" target="blank" rel="noopener noreferrer">System Requirements</a></p>
+
+---
 ## Modlist Assistance & Support
 
  1. Make sure to read over the [installation guide](/01Help/Install).
@@ -33,37 +36,7 @@ Apostasy may be overwhelming at first, so I highly recommend skimming through th
     2. If the issue has been reported and remains open, then use the existing thread to further discuss the issue.
     3. If the issue has **not** been reported, then make a new support post. Be sure to provide all requested information as outlined in the pinned post of the **#apostasy-support** channel on the [discord](https://discord.gg/4WwqfK5yHg).
 
-### Save Advice
-
-{: .important}
->
-> Do not "save scum" by saving and reloading frequently.
->
-> Avoid saving during combat, while in active dialogue, or during script heavy sequences.
->
-> Never save more than once a minute.
->
-> Never save within 30 seconds of entering a building / cell / dungeon.
->
-> After waiting/sleeping, wait fifteen to thirty seconds to allow all the NPC AI scripts and packages to appropriately update.
->
-> Do not play the game at a lower framerate than 30 fps. If this is a problem for you, then consider another list.
-
 ---
-
-### When starting a New Character
-
-{: .warning } 
-> If you have played a character already and then exit to the main menu, do _not_ attempt to start a new character in the same session. Instead, quit entirely out of Skyrim and restart it from there. If you do not do so, the game will not operate properly and you will get errors such as <strong><a href="/01Support/Known%20Issues/#getting-failed-to-start-dialogue-quest-error-in-the-start-room" target="_blank" rel="noopener noreferrer">'Failed to start Dialogue Quest'</a></strong>.
->
-> This *isn't* a bug with the modlist. Skyrim does not handle you playing one character, returning to the menu, and then starting a second. This is because Skyrim doesn't unload all of the previous games scripts and can cause severe issues with your new playthrough (hotkeys not working, broken economy, merchants with no gold, or your character leveling up when they shouldn't be).
->
-> Every time you want to start a new character, you should be closing and reopening Skyrim in its entirety.
->
-> Please ***DO NOT*** report bugs relating to this topic as its a flaw with the Creation Engine itself. There is nothing we can do to make this work!
-
----
-
 ## Credits & Thank yous
 
 ### Contributors & Collaborators

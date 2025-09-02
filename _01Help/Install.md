@@ -66,7 +66,7 @@ If you have already installed Visual C++, please make sure to install it again a
 ---
 ### Page file and Crash Prevention
 
-Larger Skyrim modlists require a significant amount of memory to run, running out of memory **will** result in crashes and many other potential issues. Due to Apostasy's size and the number of files, this step is **NOT** optional, regardless of your PC specs.
+Larger Skyrim modlists require a significant amount of memory to run, running out of memory will result in crashes and many other potential issues. Due to Apostasy's size and the number of files, this step is **NOT** optional, regardless of your PC specs.
 
 If you are limited on space, the page file can be set after the installation process is over. A detailed guide on [how to set your page file can be found here](/01Help/Pagefile/).
 
@@ -100,7 +100,7 @@ If your Steam Library is located in the Program Files folder, please <a href="ht
 #### Changing the Game Language
 
 {: .important}
-Due to limitations with Wabbajack, [Apostasy only supports the English Steam version of *Skyrim Special Edition*](/01Support/FAQs/#does-apostasy-support-any-other-languages). 
+Due to limitations with Wabbajack, <a href="/01Support/FAQs/#does-apostasy-support-any-other-languages" target="_blank" rel="noopener noreferrer">Apostasy only supports the English Steam version of *Skyrim Special Edition*</a>. 
 
  1. Right click on Skyrim Special Edition in Steam.
  2. Click `Properties`.
@@ -134,7 +134,7 @@ Before continuing onto the rest of the installation process, *Skyrim Special Edi
 
  1. Select *The Elder Scrolls V: Skyrim Special Edition* within your Steam library, then click `Play`.
  2. The *Skyrim Special Edition* launcher will offer to auto-detect your settings. When this happens, click `OK` and then click `OK` again, these settings do not matter.
- 3. Click `Exit` to exist the *Skyrim Special Edition* launcher.
+ 3. Click `Exit` to exit the *Skyrim Special Edition* launcher.
 
 ---
 ## Wabbajack Installation
