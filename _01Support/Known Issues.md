@@ -119,3 +119,18 @@ If you get a popup when attempting to launch Apostasy through Mod Organizer 2 th
 
  1. Add <a href="/01Support/Install%20Issues/#antivirus-reports-a-virus-with-wabbajack-or-the-modlist" target="_blank" rel="noopener noreferrer">Anti-virus exclusions</a> to Apostasy's Mod Organizer 2.
  2. Ensure that the file path is less than 260 characters.
+
+---
+### Engine Fixes Warnings
+
+#### "A total of {} textures failed to load in this session.
+
+This is typically an error caused by file corruption that occurs during a Wabbajack installation. Please submit your `EngineFixes.log` in the **#apostasy-support** channel of the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams discord</a> server so that the support staff can help you resolve this error.
+
+Your `EngineFixes.log` should be located at `C:\Users\[user_name]\Documents\My Games\Skyrim Special Edition\SKSE\EngineFixes.log`.
+
+#### A precomputed path had issues
+
+This occurs due to broken navmesh. While there should be none in the list, it is possible that it slipped through the QA/QC process. If you get this error, please submit your `EngineFixes.log` in the **#apostasy-support** channel of the <a href="https://discord.gg/4WwqfK5yHg" target="_blank" rel="noopener noreferrer">Waking Dreams discord</a> server so that the support staff is aware of this error and it can be solved.
+
+Your `EngineFixes.log` should be located at `C:\Users\[user_name]\Documents\My Games\Skyrim Special Edition\SKSE\EngineFixes.log`.
