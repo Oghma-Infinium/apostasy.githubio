@@ -44,7 +44,7 @@ Before proceeding with the Installation Guide, please ensure that you have the f
 
 We also ***strongly*** recommend a <a href="https://users.nexusmods.com/account/billing" target="_blank" rel="noopener noreferrer">Nexus Premium Membership <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>, which speeds up the install by auto-downloading mods. (Without Premium, you are looking at a twelve hour, highly manual task.)
 
-For System Requirements and other information, please view the <a href="/02ModlistBasics/RequirementsInstall/" target="_blank" rel="noopener noreferrer">System Requirements & Installation page</a> of this wiki.
+For System Requirements and other information, please view the <a href="/02ModlistBasics/RequirementsInstall/" target="blank" rel="noopener noreferrer">System Requirements & Installation page</a> of this wiki.
 
 If you are **updating from a previous installation**, [click here for update instructions](/01HowDoI/UpdatingModlist/).
 
@@ -66,7 +66,7 @@ If you have already installed Visual C++, please make sure to install it again a
 ---
 ### Page file and Crash Prevention
 
-Larger Skyrim modlists require a significant amount of memory to run, running out of memory **will** result in crashes and many other potential issues. Due to Apostasy's size and the number of files, this step is **NOT** optional, regardless of your PC specs.
+Larger Skyrim modlists require a significant amount of memory to run, running out of memory will result in crashes and many other potential issues. Due to Apostasy's size and the number of files, this step is **NOT** optional, regardless of your PC specs.
 
 If you are limited on space, the page file can be set after the installation process is over. A detailed guide on [how to set your page file can be found here](/01Help/Pagefile/).
 
@@ -100,7 +100,7 @@ If your Steam Library is located in the Program Files folder, please <a href="ht
 #### Changing the Game Language
 
 {: .important}
-Due to limitations with Wabbajack, [Apostasy only supports the English Steam version of *Skyrim Special Edition*](/01Support/FAQs/#does-apostasy-support-any-other-languages). 
+Due to limitations with Wabbajack, <a href="/01Support/FAQs/#does-apostasy-support-any-other-languages" target="_blank" rel="noopener noreferrer">Apostasy only supports the English Steam version of *Skyrim Special Edition*</a>. 
 
  1. Right click on Skyrim Special Edition in Steam.
  2. Click `Properties`.
@@ -134,7 +134,7 @@ Before continuing onto the rest of the installation process, *Skyrim Special Edi
 
  1. Select *The Elder Scrolls V: Skyrim Special Edition* within your Steam library, then click `Play`.
  2. The *Skyrim Special Edition* launcher will offer to auto-detect your settings. When this happens, click `OK` and then click `OK` again, these settings do not matter.
- 3. Click `Exit` to exist the *Skyrim Special Edition* launcher.
+ 3. Click `Exit` to exit the *Skyrim Special Edition* launcher.
 
 ---
 ## Wabbajack Installation
@@ -196,4 +196,4 @@ If you encounter any problems during your Wabbajack installation, please read ov
 ---
 ## Successful Installation
 
-Once you have completed your installation and received the green **Wabbajack Success** message in the Wabbajack app, you should move on to the Recommended Reading section of the wiki to cover post installation process.
+Once you have completed your installation and received the green **Wabbajack Success** message in the Wabbajack app, you should move on to the **Recommended Reading section** of this wiki to cover post installation process.

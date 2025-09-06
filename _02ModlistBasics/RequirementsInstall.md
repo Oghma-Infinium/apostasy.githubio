@@ -55,7 +55,7 @@ The Gamepass, GOG, and Epic Games version of <em>Skyrim Special Edition </em><a 
 
 We also ***strongly*** recommend a <a href="https://users.nexusmods.com/account/billing" target="_blank" rel="noopener noreferrer">Nexus Premium Membership <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>, which speeds up the install by auto-downloading mods. (Without Premium, you are looking at a twelve hour, highly manual task.)
 
-<a class="btn btn-indigo" href="/01Help/Install/" target="_blank" rel="noopener noreferrer">Download and Install Instructions <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>
+<a class="btn btn-indigo" href="/01Help/Install/" target="blank" rel="noopener noreferrer">Download and Install Instructions <svg viewBox="0 0 24 24" aria-labelledby="svg-external-link-title" width="1em" height="1em"><use xlink:href="#svg-external-link"></use></svg></a>
 
 ----
 

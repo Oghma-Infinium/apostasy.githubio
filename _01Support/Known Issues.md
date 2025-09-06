@@ -32,7 +32,7 @@ This section includes issues which cannot presently be resolved due to the issue
 
 This issue is caused by the Alternate Start scripts breaking during the character creation process. This issue only seems to occur if you:
 
- A. Start a New Game by backing out of an existing save into main menu without restarting the game entirely. You can read more on why this is an issue on the <a href="/#when-starting-a-new-character" target="_blank" rel="noopener noreferrer">Home page</a> of this wiki.  
+ A. Start a New Game by backing out of an existing save into main menu without restarting the game entirely. You can read more on why this is an issue on the <a href="/01Help/Important%20Information/#save-advice" target="_blank" rel="noopener noreferrer">Important Information page</a> of this wiki.
  B. Modified the list and have conflicts with the scripts that <a href="https://www.nexusmods.com/skyrimspecialedition/mods/50307" target="_blank" rel="noopener noreferrer">Alternate Perspective</a> edits.  
 
 There is nothing we can do to correct this and any New Game created that receives this issue will be corrupted, **bug reports on this topic will be deleted.**
